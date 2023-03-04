@@ -43,9 +43,10 @@ label {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 500px;
-    height: 500px;
-    padding-top: 500px;
+    max-width:390px;
+    max-height:10000950px;
+    width: auto;
+    height: auto;
   }
 
   #copyright {
